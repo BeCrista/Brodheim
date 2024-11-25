@@ -1,0 +1,124 @@
+﻿/* Top Image Mask Styles */
+.top-image-mask {
+    position: relative;
+    overflow: hidden;
+}
+
+    .top-image-mask img {
+        width: 100%;
+        height: auto;
+    }
+
+.image-mask-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the opacity to control the mask effect */
+}
+
+.image-mask-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-family: 'ralewaythin';
+    font-size: 6.5189vw;
+    line-height: 6.5189vw;
+}
+
+    .image-mask-content p {
+        font-size: 50px;
+    }
+
+    .image-mask-content strong {
+        font-size: 35px;
+        font-family: 'ralewaybold';
+    }
+
+/* Filter Search Styles */
+.filter-search {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .filter-search .input-group {
+        margin-bottom: 10px;
+    }
+
+    .filter-search .input-group-text {
+        font-size: 24px;
+        color: #000;
+    }
+
+    .filter-search .form-control {
+        padding: 8px 12px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .filter-search .form-select {
+        padding: 8px 12px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #fff;
+        color: #000;
+        cursor: pointer;
+    }
+
+    .filter-search .filter-dropdown {
+        position: relative;
+    }
+
+    .filter-search .filter-dropdown-content {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        z-index: 1;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 5px;
+        display: none;
+    }
+
+        .filter-search .filter-dropdown-content a {
+            display: block;
+            padding: 5px;
+            color: #000;
+            text-decoration: none;
+        }
+
+            .filter-search .filter-dropdown-content a:hover {
+                background-color: #f1f1f1;
+            }
+
+    .filter-search .filter-dropdown.active .filter-dropdown-content {
+        display: block;
+    }
+
+/* List of Job Opportunities Styles */
+.job-list {
+    margin-top: 20px;
+}
+
+.job-opportunity-item {
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+    .job-opportunity-item h3 {
+        margin-bottom: 5px;
+    }
+
+    .job-opportunity-item p {
+        margin-bottom: 0;
+    }

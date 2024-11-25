@@ -1,0 +1,501 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Brodheim.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Brodheim.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\01ecdbe1-363d-42c8-b1e0-448b6834905a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Brands\\01ecdbe1-363d-42c8-b1e0-448b6834905a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\03e8f48d-e40b-409e-a3e7-0e5a971e3d41.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\03e8f48d-e40b-409e-a3e7-0e5a971e3d41.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\381b7b25-761c-42bc-963c-c8e6325ee831.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\381b7b25-761c-42bc-963c-c8e6325ee831.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\41d01bab-401f-46c1-8c53-d078bde90b2a.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\41d01bab-401f-46c1-8c53-d078bde90b2a.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\481bc3f7-ca0d-419e-b76e-36c3eaa62318.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\481bc3f7-ca0d-419e-b76e-36c3eaa62318.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\7351ea0c-ea85-49c4-ae3a-02eb823d9157.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\7351ea0c-ea85-49c4-ae3a-02eb823d9157.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\8338d4ea-88f9-42e9-adfc-9f788506ccd3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Brands\\8338d4ea-88f9-42e9-adfc-9f788506ccd3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\8da16d27-277b-415b-b8af-6e5439e2e594.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\8da16d27-277b-415b-b8af-6e5439e2e594.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\96e26282-7df9-4243-974f-9f1e3960db7b.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\96e26282-7df9-4243-974f-9f1e3960db7b.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\9cf26823-6469-455a-9399-e27ef13611e5.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\9cf26823-6469-455a-9399-e27ef13611e5.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\a1f76e13-62d4-4969-9c04-6b94b2f6826d.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\a1f76e13-62d4-4969-9c04-6b94b2f6826d.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\a56c5937-12d7-494f-90c9-4eda4b302afd.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\a56c5937-12d7-494f-90c9-4eda4b302afd.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\bb733e6a-e1b8-460a-81c0-f8c72d83c988.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\bb733e6a-e1b8-460a-81c0-f8c72d83c988.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\d6d2c6c3-69cd-4ef9-b15d-8d27ca2f56ae.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\d6d2c6c3-69cd-4ef9-b15d-8d27ca2f56ae.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\db8a0932-aa60-41fc-8efe-34a37e50cd3b.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\db8a0932-aa60-41fc-8efe-34a37e50cd3b.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\ddab5d62-efd0-4834-8799-3b83ba178f42.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\ddab5d62-efd0-4834-8799-3b83ba178f42.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\e2d0edd6-3d80-4fa3-b08f-33be69224b42.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\e2d0edd6-3d80-4fa3-b08f-33be69224b42.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Brands\\e67ec25e-f4dd-4899-90c1-f27155f30774.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\e67ec25e-f4dd-4899-90c1-f27155f30774.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSliderTestemunha\\1596795e-49db-4006-8fb8-74e63a76b3de.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSliderTestemunha\\1596795e-49db-4006-8fb8-74e63a76b3de.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSliderTestemunha\\2b4350e6-edc1-4fab-b5b5-ec89a9f8f498.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSliderTestemunha\\2b4350e6-edc1-4fab-b5b5-ec89a9f8f498.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSliderTestemunha\\3838d6cc-9199-423a-957f-705fec14bf03.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSliderTestemunha\\3838d6cc-9199-423a-957f-705fec14bf03.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSliderTestemunha\\4e586f7e-8831-4078-8582-e81678e4bea1.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSliderTestemunha\\4e586f7e-8831-4078-8582-e81678e4bea1.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSliderTestemunha\\516ef9c0-3220-4d1f-a4d3-52d45e399992.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSliderTestemunha\\516ef9c0-3220-4d1f-a4d3-52d45e399992.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSliderTestemunha\\72dd0d85-1208-4699-9d30-1b7663bc106d.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSliderTestemunha\\72dd0d85-1208-4699-9d30-1b7663bc106d.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSliderTestemunha\\8d73ed13-03dc-4c0f-a530-7915bf0fd716.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSliderTestemunha\\8d73ed13-03dc-4c0f-a530-7915bf0fd716.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSliderTestemunha\\b59afb70-9123-4a28-96ee-bc2398a11461.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSliderTestemunha\\b59afb70-9123-4a28-96ee-bc2398a11461.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSliderTestemunha\\c0b66ebd-79aa-4c30-bf98-dc13e843eb7a.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSliderTestemunha\\c0b66ebd-79aa-4c30-bf98-dc13e843eb7a.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSliderTestemunha\\c67f4270-a8a9-4c1d-aee3-81532ec509e2.png",
+      "PackagePath": "staticwebassets\\Images\\HomePageSliderTestemunha\\c67f4270-a8a9-4c1d-aee3-81532ec509e2.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSlider\\0d5832c6-daae-4ddd-b67c-72ef24a975cb.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePageSlider\\0d5832c6-daae-4ddd-b67c-72ef24a975cb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSlider\\252d0f09-3c77-4e3d-b159-ec50428cf23e.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePageSlider\\252d0f09-3c77-4e3d-b159-ec50428cf23e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSlider\\b33f173e-0e4c-4f10-a504-b1ed6c621490.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePageSlider\\b33f173e-0e4c-4f10-a504-b1ed6c621490.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSlider\\bc372dc8-84c9-40a4-bd34-6368c565145e.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePageSlider\\bc372dc8-84c9-40a4-bd34-6368c565145e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\HomePageSlider\\f70a502e-233f-4f4b-ac59-a625aab5c6c2.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePageSlider\\f70a502e-233f-4f4b-ac59-a625aab5c6c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Oportunidades\\0a886907-c4f2-4656-9c77-b42d39a53505.png",
+      "PackagePath": "staticwebassets\\Images\\Oportunidades\\0a886907-c4f2-4656-9c77-b42d39a53505.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Oportunidades\\0bb59866-f941-43e8-b917-23181386d7bf.png",
+      "PackagePath": "staticwebassets\\Images\\Oportunidades\\0bb59866-f941-43e8-b917-23181386d7bf.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Oportunidades\\2372d1ab-6a83-4b7b-bb1c-0b5cf81ec6ba.png",
+      "PackagePath": "staticwebassets\\Images\\Oportunidades\\2372d1ab-6a83-4b7b-bb1c-0b5cf81ec6ba.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Oportunidades\\5c3152b6-b3a4-4960-b086-1e1177378494.png",
+      "PackagePath": "staticwebassets\\Images\\Oportunidades\\5c3152b6-b3a4-4960-b086-1e1177378494.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Oportunidades\\63809995-2c76-4b31-90da-6cafe9b6b4e4.png",
+      "PackagePath": "staticwebassets\\Images\\Oportunidades\\63809995-2c76-4b31-90da-6cafe9b6b4e4.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Oportunidades\\9824d8f8-09c1-4f2c-9cb4-de6b18d84766.png",
+      "PackagePath": "staticwebassets\\Images\\Oportunidades\\9824d8f8-09c1-4f2c-9cb4-de6b18d84766.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Oportunidades\\b7793020-92d4-4e79-ba1f-2dd630e4d5c3.png",
+      "PackagePath": "staticwebassets\\Images\\Oportunidades\\b7793020-92d4-4e79-ba1f-2dd630e4d5c3.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Oportunidades\\cf23d1a6-03fb-4168-804a-d03b6ee80173.png",
+      "PackagePath": "staticwebassets\\Images\\Oportunidades\\cf23d1a6-03fb-4168-804a-d03b6ee80173.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Passos\\2059cb31-8e0b-4693-9316-130bead05937.png",
+      "PackagePath": "staticwebassets\\Images\\Passos\\2059cb31-8e0b-4693-9316-130bead05937.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Passos\\4acebb90-d096-4de2-8a6c-a870a77260d2.png",
+      "PackagePath": "staticwebassets\\Images\\Passos\\4acebb90-d096-4de2-8a6c-a870a77260d2.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Passos\\53dd0f60-c3f9-4567-86db-5f49564df50a.png",
+      "PackagePath": "staticwebassets\\Images\\Passos\\53dd0f60-c3f9-4567-86db-5f49564df50a.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Passos\\640ae1bf-0ce6-40a9-9235-9ae12aab9e8b.png",
+      "PackagePath": "staticwebassets\\Images\\Passos\\640ae1bf-0ce6-40a9-9235-9ae12aab9e8b.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Passos\\75eec034-b563-449f-83ee-30fd10c0d156.png",
+      "PackagePath": "staticwebassets\\Images\\Passos\\75eec034-b563-449f-83ee-30fd10c0d156.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\Passos\\93c2f85d-0972-462e-966d-b8cae4cc0125.png",
+      "PackagePath": "staticwebassets\\Images\\Passos\\93c2f85d-0972-462e-966d-b8cae4cc0125.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\QuemSomos\\5af1f9ba-4612-4754-8342-a7d9fc4f67a9.png",
+      "PackagePath": "staticwebassets\\Images\\QuemSomos\\5af1f9ba-4612-4754-8342-a7d9fc4f67a9.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\QuemSomos\\769c9743-9f05-4ef9-aa25-975a990cd0ea.png",
+      "PackagePath": "staticwebassets\\Images\\QuemSomos\\769c9743-9f05-4ef9-aa25-975a990cd0ea.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\QuemSomos\\90ea9ac4-6b0f-4383-b3d2-bd1043c602b8.png",
+      "PackagePath": "staticwebassets\\Images\\QuemSomos\\90ea9ac4-6b0f-4383-b3d2-bd1043c602b8.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\QuemSomos\\ada47419-5919-40e3-b530-9a4602b6e670.png",
+      "PackagePath": "staticwebassets\\Images\\QuemSomos\\ada47419-5919-40e3-b530-9a4602b6e670.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\brodheim_carreiras_imageTop.png",
+      "PackagePath": "staticwebassets\\Images\\brodheim_carreiras_imageTop.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\brodheim_logo.png",
+      "PackagePath": "staticwebassets\\Images\\brodheim_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\Images\\brodheim_oportunidades_imageTop.png",
+      "PackagePath": "staticwebassets\\Images\\brodheim_oportunidades_imageTop.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\css\\IndexHome.css",
+      "PackagePath": "staticwebassets\\css\\IndexHome.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\css\\stylesCarreiras.css",
+      "PackagePath": "staticwebassets\\css\\stylesCarreiras.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\css\\stylesOportunidades.css",
+      "PackagePath": "staticwebassets\\css\\stylesOportunidades.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\css\\stylesTrabalho.css",
+      "PackagePath": "staticwebassets\\css\\stylesTrabalho.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Downloads\\Projetos_Estágio_Bernardo\\Projetos_Estágio_Bernardo\\Brodheim\\Brodheim\\Brodheim\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Brodheim.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Brodheim.props",
+      "PackagePath": "build\\Brodheim.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Brodheim.props",
+      "PackagePath": "buildMultiTargeting\\Brodheim.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Brodheim.props",
+      "PackagePath": "buildTransitive\\Brodheim.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

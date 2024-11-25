@@ -1,0 +1,285 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-kfcb7iya7n] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-kfcb7iya7n], a:hover[b-kfcb7iya7n] {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.btn-primary[b-kfcb7iya7n] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-kfcb7iya7n], .nav-pills .show > .nav-link[b-kfcb7iya7n] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-kfcb7iya7n] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-kfcb7iya7n] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-kfcb7iya7n] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-kfcb7iya7n] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-kfcb7iya7n] {
+    padding: 4px;
+    background-color: #303133;
+    color: #fff;
+    font-family: 'ralewayregular', sans-serif;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    width: 100%;
+}
+
+
+.container-fluid[b-kfcb7iya7n] {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.footer-menu[b-kfcb7iya7n] {
+    padding: 0px;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.footer-item[b-kfcb7iya7n]{
+    margin: 0 20px;
+    position: relative;
+    flex: 1;
+    min-width: 200px;
+}
+
+.footer-item a[b-kfcb7iya7n] {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+    display: flex;
+}
+
+.footer-item a:hover[b-kfcb7iya7n] {
+    color: aquamarine; /* Aquamarine color on hover */
+}
+
+
+.sub-footer-menu[b-kfcb7iya7n] {
+    padding: 0;
+    list-style-type: none;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 15px;
+    text-transform: uppercase;
+    background-color: #303133;
+    display: inline-block;
+    position: static;
+    bottom: 100%;
+    /* Add some padding and box-shadow to improve appearance */
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.sub-footer-item[b-kfcb7iya7n] {
+    margin: 5px;
+}
+
+.sub-footer-item a[b-kfcb7iya7n] {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.sub-footer-item a:hover[b-kfcb7iya7n] {
+     color: #DC143C; /* Red color on hover */
+}
+
+#TopMenu[b-kfcb7iya7n] {
+    margin-left: 50px;
+}
+#TopMenu[b-kfcb7iya7n] {
+    margin: 0;
+    margin-left: 50px;
+    list-style: none;
+    font-family: 'ralewayregular';
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+}
+
+ul[b-kfcb7iya7n]{
+    padding: 0px;
+}
+
+li[b-kfcb7iya7n] {
+    line-height: 70px;
+    height: 70px;
+    display: list-item;
+    text-align: match-parent;
+}
+
+#TopMenu .top_logo-left[b-kfcb7iya7n] {
+    align-self: flex-start;
+    margin-right: auto;
+}
+
+#TopMenu .search_wrapper[b-kfcb7iya7n] {
+    display: flex;
+    align-items: center;
+}
+
+.search_right_logo[b-kfcb7iya7n] {
+    text-align: right !important;
+}
+#TopMenu .search-field[b-kfcb7iya7n] {
+    border: 0;
+    padding: 5px;
+    background-color: transparent;
+    outline: none;
+    color:white;
+    margin-left: 10px;
+    line-height: 1;
+    opacity: .5;
+}
+
+.topmenu_header[b-kfcb7iya7n] {
+    background-color: #303133;
+}
+
+.bi-search[b-kfcb7iya7n] {
+    background: 0 0;
+    border: none;
+    padding: 0;
+    margin: 0px;
+    vertical-align: central;
+    color:white;
+}
+
+.perfil_login[b-kfcb7iya7n]{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bi-person-circle[b-kfcb7iya7n] {
+    font-size: 40px;
+    color: aqua;
+}
+
+.navbar[b-kfcb7iya7n] {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+}
+
+.navbar-expand-md[b-kfcb7iya7n] {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+
+.navbar-expand-md .navbar-collapse[b-kfcb7iya7n] {
+    display: -ms-flexbox !important;
+    display: flex !important;
+    flex-basis: auto;
+}
+
+.navbar_menu .nav.navbar-nav[b-kfcb7iya7n] {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+.navbar_menu_content[b-kfcb7iya7n] {
+    flex-basis: 100%;
+    flex-grow: 1;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.justify-content-between[b-kfcb7iya7n] {
+    -ms-flex-pack: justify!important;
+    justify-content: space-between!important;
+}
+.navbar-nav[b-kfcb7iya7n] {
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.nav[b-kfcb7iya7n] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav-item[b-kfcb7iya7n] {
+    position: relative; /* Para que o ::after possa ser posicionado relativamente ao link */
+}
+
+    .nav-item[b-kfcb7iya7n]::after {
+        content: ""; /* Cria o elemento que será a "linha" */
+        display: block; /* Torna o elemento um bloco para que possamos aplicar largura e altura */
+        position: absolute; /* Posiciona a "linha" de acordo com o link pai */
+        bottom: -5px; /* Posiciona a "linha" abaixo do link */
+        left: 0; /* Alinha a "linha" à esquerda do link */
+        width: 100%; /* Define a largura da "linha" igual à largura do link */
+        height: 3px; /* Define a altura da "linha" (aqui, ela terá 3 pixels de altura) */
+        background-color: #DC143C; /* Cor da "linha" (aqui, crimson) */
+        opacity: 0; /* Inicialmente, deixamos a "linha" invisível */
+        transition: opacity 0.3s; /* Adiciona uma transição para um efeito suave */
+    }
+
+    .nav-item:hover[b-kfcb7iya7n]::after {
+        opacity: 1; /* Quando o mouse estiver sobre o link, torna a "linha" visível */
+    }
+
+.nav-item[b-kfcb7iya7n] {
+    /* Estilos padrão dos links */
+    font-size: 18px; /* Tamanho de fonte padrão */
+    transition: font-size 0.5s; /* Adiciona uma transição para um efeito suave */
+    /* Outros estilos, se necessário */
+}
+
+    .nav-item:hover[b-kfcb7iya7n] {
+        font-size: 22px; /* Tamanho de fonte ao passar o mouse */
+    }

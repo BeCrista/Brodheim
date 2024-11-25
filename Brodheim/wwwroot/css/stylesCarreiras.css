@@ -1,0 +1,137 @@
+﻿
+/* Top Image Mask Styles */
+.top-image-mask {
+    position: relative;
+    overflow: hidden;
+}
+
+    .top-image-mask img {
+        width: 100%;
+        height: auto;
+    }
+
+.image-mask-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the opacity to control the mask effect */
+}
+
+.image-mask-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-family: 'ralewaythin';
+    font-size: 6.5189vw;
+    line-height: 6.5189vw;
+}
+
+    .image-mask-content p {
+        font-size: 50px;
+    }
+
+    .image-mask-content strong {
+        font-size: 35px;
+        font-family: 'ralewaybold';
+    }
+
+/* Top Wrapper Styles */
+.top_wrapper {
+    margin-bottom: 20px;
+    background-color: #f9f9f9; /* Add a background color to the top wrapper */
+    padding: 40px 0; /* Add padding to the top wrapper */
+    text-align:center;
+}
+
+    .top_wrapper .title {
+        font-size: 28px; /* Increase the font size for the title */
+        font-weight: bold; /* Add font-weight to the title */
+        padding: 10px 0; /* Adjust the padding for the title */
+        margin-bottom: 0; /* Remove margin-bottom to align with the separator */
+    }
+
+.separator {
+    padding: 10px 0; /* Adjust the padding for the separator */
+    border-color: #fa7268;
+}
+
+.top_wrapper .description {
+    font-size: 18px; /* Increase the font size for the description */
+    padding: 20px 60px; /* Adjust the padding for the description */
+}
+
+/* Passos Stepper Styles */
+.passos-wrapper {
+    padding: 20px 0;
+}
+
+.title_passos {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+    text-transform: uppercase;
+    padding-left: 10px;
+    line-height: 30px;
+    color: #1e1e1e;
+}
+
+.steps {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+.step-item {
+    margin: 0 5px;
+}
+
+.step-button {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    background-color: var(--prm-gray);
+    transition: .4s;
+}
+
+.step-button.active {
+        border-color: #fa7268;
+        color: #fa7268;
+}
+
+.step-title {
+    font-size: 14px;
+}
+
+.card {
+    border: none;
+    border-top: 2px solid #ccc;
+    border-radius: 0;
+    background-color: transparent;
+    box-shadow: none;
+    padding: 0;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.image_wrapper {
+    text-align: center;
+}
+
+    .image_wrapper img {
+        max-width: 100%;
+        height: auto;
+    }
+
+.content p {
+    font-size: 16px;
+}

@@ -1,0 +1,207 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Brodheim
+build_property.RootNamespace = Brodheim
+build_property.ProjectDir = C:\Users\berna\Downloads\Projetos_Estágio_Bernardo\Projetos_Estágio_Bernardo\Brodheim\Brodheim\Brodheim\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\berna\Downloads\Projetos_Estágio_Bernardo\Projetos_Estágio_Bernardo\Brodheim\Brodheim\Brodheim
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Brands/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Brands/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Brands/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Brands/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Brands/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/HomePageSlidersTestemunhas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzVGVzdGVtdW5oYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/HomePageSlidersTestemunhas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzVGVzdGVtdW5oYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/HomePageSlidersTestemunhas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzVGVzdGVtdW5oYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/HomePageSlidersTestemunhas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzVGVzdGVtdW5oYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/HomePageSlidersTestemunhas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzVGVzdGVtdW5oYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/HomePageSliders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/HomePageSliders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/HomePageSliders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/HomePageSliders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/HomePageSliders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVBhZ2VTbGlkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Oportunidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3BvcnR1bmlkYWRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Oportunidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3BvcnR1bmlkYWRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Oportunidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3BvcnR1bmlkYWRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Oportunidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3BvcnR1bmlkYWRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Oportunidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3BvcnR1bmlkYWRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Passos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFzc29zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Passos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFzc29zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Passos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFzc29zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Passos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFzc29zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Passos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFzc29zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/QuemSomos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUXVlbVNvbW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/QuemSomos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUXVlbVNvbW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/QuemSomos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUXVlbVNvbW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/QuemSomos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUXVlbVNvbW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/QuemSomos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUXVlbVNvbW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Views/Home/Carreiras.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJyZWlyYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Views/Home/JobDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb2JEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Views/Home/Oportunidades.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcG9ydHVuaWRhZGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kfcb7iya7n
+
+[C:/Users/berna/Downloads/Projetos_Estágio_Bernardo/Projetos_Estágio_Bernardo/Brodheim/Brodheim/Brodheim/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mqsl307onl

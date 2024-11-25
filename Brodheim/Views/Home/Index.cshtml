@@ -1,0 +1,137 @@
+﻿@model Brodheim.Models.ViewModels.HomePageVM
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Add your custom CSS file -->
+<link rel="stylesheet" href="~/css/styles.css">
+
+
+<div class="homepage-slider">
+    <div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+        <!-- Indicators/dots -->
+        <div class="carousel-indicators">
+            @for (int i = 0; i < Model.HomePageSlider.Count; i++)
+            {
+                <button type="button" data-bs-target="#demo" data-bs-slide-to="@i" @(i == 0 ? "class=active" : "")></button>
+            }
+        </div>
+
+        <!-- The slideshow/carousel -->
+        <div class="carousel-inner">
+            @for (int i = 0; i < Model.HomePageSlider.Count; i++)
+            {
+                var slider = Model.HomePageSlider[i];
+                <div class="carousel-item @(i == 0 ? "active" : "")">
+                    <img src="@slider.ImageSlider" alt="Slider Image" class="d-block w-100">
+                    <div class="carousel-caption">
+                        <strong>@slider.Title</strong>
+                        <p>@slider.SubTitle</p>
+                        <a href="/" class="btn btn-primary">Junte-se à nós</a>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <!-- Left and right controls/icons -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </button>
+    </div>
+</div>
+
+<!-- Display QuemSomos section -->
+<div class="quem-somos-section" id="QuemSomos">
+    <div class="user_info">
+        <div class="section_title" id="QuemSomos">
+            <noscript><img src="https://recrutamento-brodheim.pt/wp-content/themes/brodheim-carreiras/images/question_mark.svg" alt="Quem Somos"></noscript>
+            <img class="ls-is-cached lazyloaded" src="https://recrutamento-brodheim.pt/wp-content/themes/brodheim-carreiras/images/question_mark.svg" data-src="https://recrutamento-brodheim.pt/wp-content/themes/brodheim-carreiras/images/question_mark.svg" alt="Quem Somos">
+            <span class="span-title">Quem Somos</span>
+        </div>
+        <div class="colaborators_info slick-initialized slick-slider">
+            <div class="slick-list draggable">
+                <div class="slick-track" style="opacity: 1; width: 627px; transform: translate3d(0px, 0px, 0px);">
+                    @foreach (var item in Model.QuemSomos)
+                    {
+                        <div class="slick-slide slick-active" aria-hidden="false">
+                            <div>
+                                <div class="column_wrapper text-center">
+                                    <div class="image_wrapper">
+                                        <noscript>
+                                            <img src="@item.ImageRepresentative" alt="colaboradores" style="height: 126px;">
+                                        </noscript>
+                                        <img class="ls-is-cached lazyloaded" src="@item.ImageRepresentative" data-src="@item.ImageRepresentative" alt="colaboradores">
+                                    </div>
+                                    <div class="separator"></div>
+                                    <div class="text_wrapper">
+                                        <div class="number">@item.QuantityRepresentative</div>
+                                        <div class="text">@item.NameRepresentative</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="homepage-testimonials-slider" >
+    <div id="testimonial-slider" class="carousel slide" data-bs-ride="carousel">
+
+        <!-- Indicators/dots -->
+        <ol class="carousel-indicators">
+            @for (int i = 0; i < Model.HomePageSlidersTestemunhas.Count; i++)
+            {
+                <li data-bs-target="#testimonial-slider" data-bs-slide-to="@i" @(i == 0 ? "class=active" : "")></li>
+            }
+        </ol>
+
+        <!-- The slideshow/carousel -->
+        <div class="carousel-inner">
+            @for (int i = 0; i < Model.HomePageSlidersTestemunhas.Count; i++)
+            {
+                var testimonial = Model.HomePageSlidersTestemunhas[i];
+                <div class="carousel-item @(i == 0 ? "active" : "")">
+                    <div class="testimonial-card">
+                        <img src="@testimonial.PersonImage" alt="Person Image">
+                        <h3>@testimonial.NamePerson</h3>
+                        <p>@testimonial.PersonPosition</p>
+                        <p>@testimonial.Description</p>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <!-- Left and right controls/icons -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#testimonial-slider" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#testimonial-slider" data-bs-slide="next">
+            <span class="carousel-control-next-icon" style="color:dimgray"></span>
+        </button>
+    </div>
+</div>
+
+
+<!-- Display Brands section -->
+<div class="brands-wrapper" id="Brands">
+    <ul class="brands-list">
+        @foreach (var brand in Model.Brands)
+        {
+            <li class="brand_wrapper text-center">
+                <div class="brandImage">
+                    <img class="mx-auto lazyloaded" src="@brand.ImageBrand" data-src="@brand.ImageBrand" alt="Brand Image">
+                </div>
+            </li>
+        }
+    </ul>
+</div>
+
+
+

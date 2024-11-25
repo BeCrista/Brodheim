@@ -1,0 +1,67 @@
+﻿@model Brodheim.Models.Oportunidades
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Oportunidades</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NomeTrabalho" class="control-label"></label>
+                <input asp-for="NomeTrabalho" class="form-control" />
+                <span asp-validation-for="NomeTrabalho" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NomeEmpresa" class="control-label"></label>
+                <input asp-for="NomeEmpresa" class="form-control" />
+                <span asp-validation-for="NomeEmpresa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageEmpresa" class="control-label"></label>
+                <input type="file" name="file" class="form-control border-0 shadow" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Localizacao" class="control-label"></label>
+                <input asp-for="Localizacao" class="form-control" />
+                <span asp-validation-for="Localizacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NomeFuncao" class="control-label"></label>
+                <input asp-for="NomeFuncao" class="form-control" />
+                <span asp-validation-for="NomeFuncao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DetalhesFuncao" class="control-label"></label>
+                <input asp-for="DetalhesFuncao" class="form-control" />
+                <span asp-validation-for="DetalhesFuncao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoContrato" class="control-label"></label>
+                <input asp-for="TipoContrato" class="form-control" />
+                <span asp-validation-for="TipoContrato" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateTrabalho" class="control-label"></label>
+                <input asp-for="DateTrabalho" class="form-control" />
+                <span asp-validation-for="DateTrabalho" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

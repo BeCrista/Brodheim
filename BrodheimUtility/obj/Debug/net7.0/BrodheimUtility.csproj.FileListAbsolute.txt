@@ -1,0 +1,12 @@
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimUtility\bin\Debug\net7.0\BrodheimUtility.deps.json
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimUtility\bin\Debug\net7.0\BrodheimUtility.dll
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimUtility\bin\Debug\net7.0\BrodheimUtility.pdb
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimUtility\obj\Debug\net7.0\BrodheimUtility.csproj.AssemblyReference.cache
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimUtility\obj\Debug\net7.0\BrodheimUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimUtility\obj\Debug\net7.0\BrodheimUtility.AssemblyInfoInputs.cache
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimUtility\obj\Debug\net7.0\BrodheimUtility.AssemblyInfo.cs
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimUtility\obj\Debug\net7.0\BrodheimUtility.csproj.CoreCompileInputs.cache
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimUtility\obj\Debug\net7.0\BrodheimUtility.dll
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimUtility\obj\Debug\net7.0\refint\BrodheimUtility.dll
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimUtility\obj\Debug\net7.0\BrodheimUtility.pdb
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimUtility\obj\Debug\net7.0\ref\BrodheimUtility.dll

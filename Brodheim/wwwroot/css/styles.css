@@ -1,0 +1,188 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+/* Add your custom CSS styles here */
+
+/* Homepage Slider */
+.homepage-slider {
+    position: relative;
+}
+
+.carousel-caption {
+    position: absolute;
+    left: 15%;
+    text-align: center;
+    color: #000;
+}
+
+    .carousel-caption strong {
+        font-family: 'ralewaybold', sans-serif;
+        font-size: 50px;
+        color: white;
+    }
+
+    .carousel-caption p {
+        font-family: 'ralewayregular', sans-serif;
+        font-size: 18px;
+        color:white;
+    }
+
+    .carousel-caption .btn {
+        font-family: 'ralewayregular', sans-serif;
+        font-size: 18px;
+        background-color: #000;
+        color: #fff;
+        border: none;
+        padding: 15px 30px;
+        border-radius: 5px;
+        text-transform: uppercase;
+    }
+
+        .carousel-caption .btn:hover {
+            background-color: crimson;
+            color: #fff;
+        }
+
+/* Quem Somos Section */
+.quem-somos-section {
+    background-color: #f7f7f7;
+    padding: 50px 0;
+}
+
+.section_title {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+    .section_title img {
+        width: 50px;
+        height: 50px;
+        margin-right: 10px;
+    }
+
+    .section_title .span-title {
+        font-family: 'ralewaybold', sans-serif;
+        font-size: 35px;
+    }
+
+.colaborators_info {
+    display: flex;
+    justify-content: center;
+}
+
+.column_wrapper {
+    padding: 20px;
+}
+
+    .column_wrapper .image_wrapper {
+        margin-bottom: 20px;
+    }
+
+    .column_wrapper img {
+        max-width: 100%;
+    }
+
+    .column_wrapper .separator {
+        height: 1px;
+        background-color: #ddd;
+        margin-bottom: 20px;
+    }
+
+    .column_wrapper .number {
+        font-family: 'ralewayregular', sans-serif;
+        font-size: 36px;
+    }
+
+    .column_wrapper .text {
+        font-family: 'ralewayregular', sans-serif;
+        font-size: 18px;
+    }
+
+
+/* Testimonial Slider */
+.homepage-testimonials-slider {
+    background-color: #f7f7f7;
+    padding: 50px 0;
+}
+
+#testimonial-slider .carousel-indicators {
+    bottom: -40px;
+}
+
+    #testimonial-slider .carousel-indicators li {
+        background-color: #ccc;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+    }
+
+    #testimonial-slider .carousel-indicators .active {
+        background-color: #000;
+    }
+
+#testimonial-slider .carousel-inner {
+    display: flex;
+    margin-left: 530px;
+}
+
+#testimonial-slider .testimonial-card {
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
+    left: 55px;
+}
+
+#testimonial-slider img {
+    max-width: 100%;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+#testimonial-slider h3 {
+    font-family: 'ralewayregular', sans-serif;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#testimonial-slider p {
+    font-family: 'ralewayregular', sans-serif;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+
+/* Add your other existing styles here */
+
+/* Brands Section */
+.brands-wrapper {
+    padding: 20px;
+}
+
+.brands-list {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+}
+
+    .brands-list li {
+        flex: 1 0 25%;
+        max-width: 25%;
+        padding: 20px;
+    }
+
+    .brands-list img {
+        max-width: 50%;
+        margin-bottom: 100px;
+    }
+
+
+
+

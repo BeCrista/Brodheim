@@ -1,0 +1,17 @@
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\bin\Debug\net7.0\BrodheimDataAccess.deps.json
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\bin\Debug\net7.0\BrodheimDataAccess.runtimeconfig.json
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\bin\Debug\net7.0\BrodheimDataAccess.dll
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\bin\Debug\net7.0\BrodheimDataAccess.pdb
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\bin\Debug\net7.0\BrodheimModels.dll
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\bin\Debug\net7.0\BrodheimModels.pdb
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\obj\Debug\net7.0\BrodheimDataAccess.csproj.AssemblyReference.cache
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\obj\Debug\net7.0\BrodheimDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\obj\Debug\net7.0\BrodheimDataAccess.AssemblyInfoInputs.cache
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\obj\Debug\net7.0\BrodheimDataAccess.AssemblyInfo.cs
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\obj\Debug\net7.0\BrodheimDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\obj\Debug\net7.0\BrodheimDataAccess.csproj.CopyComplete
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\obj\Debug\net7.0\BrodheimDataAccess.dll
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\obj\Debug\net7.0\refint\BrodheimDataAccess.dll
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\obj\Debug\net7.0\BrodheimDataAccess.pdb
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\obj\Debug\net7.0\BrodheimDataAccess.genruntimeconfig.cache
+C:\Users\bernardo.crista\source\repos\Brodheim\BrodheimDataAccess\obj\Debug\net7.0\ref\BrodheimDataAccess.dll

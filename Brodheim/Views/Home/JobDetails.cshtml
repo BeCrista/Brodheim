@@ -1,0 +1,24 @@
+﻿@model Brodheim.Models.Oportunidades
+
+<!-- Add your custom CSS file -->
+<link rel="stylesheet" href="~/css/stylesTrabalho.css">
+
+<!-- Display the job opportunity details here -->
+<div class="job-details-container container">
+    <div class="job-details">
+        <h1>@Model.NomeTrabalho</h1>
+        <img src="@Model.ImageEmpresa" alt="@Model.NomeEmpresa" class="company-image" style="text-align:center">
+        <p>@Model.Localizacao</p>
+        <!-- Add more job details here... -->
+    </div>
+
+    <div class="job-description">
+        <h2>Descrição do Trabalho</h2>
+        <p>
+            <!-- Display the job description here -->
+            @Model.DetalhesFuncao
+        </p>
+    </div>
+
+    <!-- Add other sections as needed, such as requirements, benefits, etc. -->
+</div>

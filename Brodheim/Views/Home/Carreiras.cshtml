@@ -1,0 +1,100 @@
+﻿@model Brodheim.Models.ViewModels.CarreirasVM
+
+<!-- Carreiras.cshtml -->
+@{
+    ViewData["Title"] = "Carreiras";
+}
+
+<!-- Add your custom CSS file -->
+<link rel="stylesheet" href="~/css/stylesCarreiras.css">
+
+<!-- Top Image Mask -->
+<div class="top-image-mask">
+    <img src="~/Images/brodheim_carreiras_imageTop.png" alt="Top Image">
+    <div class="image-mask-overlay"></div>
+    <div class="image-mask-content">
+        <p>Como pertencer à</p>
+        <p>
+            <strong>Nossa Equipa</strong>
+        </p>
+        
+    </div>
+</div>
+
+
+<!--Top Wrapper -->
+<div class="top_wrapper">
+    <h2 class="title"> O nosso recrutamento</h2>
+    <div class="separator"></div>
+    <div class="description">
+        <p>
+            No Grupo Brodheim o recrutamento é focado na atitude e potencial do candidato.
+            <br> É o primeiro passo para o desenvolvimento de uma carreira assente nos valores em que acreditamos:
+            <br> Credibilidade, Sustentabilidade, Ambição, Empowerment e Atitude.
+        </p>
+    </div>
+</div>
+
+<!-- Passos Stepper Section -->
+<div class="passos-wrapper">
+    <div class="accordion" id="accordionExample">
+        <h2 class="title_passos">Passos</h2>
+        <div class="steps">
+            @foreach (var passo in Model.PassosList)
+            {
+                <div class="step-item">
+                    <button class="step-button text-center" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePasso@(passo.ID)" aria-expanded="false" aria-controls="collapsePasso@(passo.ID)">
+                        @passo.ID
+                    </button>
+                </div>
+            }
+        </div>
+        @foreach (var passo in Model.PassosList)
+        {
+            <div class="card">
+                <div id="headingPasso@(passo.ID)">
+                </div>
+                <div id="collapsePasso@(passo.ID)" class="collapse" aria-labelledby="headingPasso@(passo.ID)" data-bs-parent="#accordionExample">
+                    <div class="card-body">
+                        <div class="image_wrapper">
+                            <noscript>
+                                <img src="@passo.ImagePasso" alt="Passo Image">
+                            </noscript>
+                            <img class="ls-is-cached lazyloaded" src="@passo.ImagePasso" data-src="@passo.ImagePasso" alt="Passo Image">
+                        </div>
+                        <div class="content" style="text-align:center">
+                            <p>@passo.DescricaoPasso</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
+<script>
+    // Function to handle step button clicks
+    function handleStepButtonClick(stepNumber) {
+        const stepButtons = document.querySelectorAll('.step-button');
+        const collapseItems = document.querySelectorAll('.card');
+
+        stepButtons.forEach((button, index) => {
+            if (index + 1 === stepNumber) {
+                button.classList.add('active');
+                collapseItems[index].classList.add('show');
+            } else {
+                button.classList.remove('active');
+                collapseItems[index].classList.remove('show');
+            }
+        });
+    }
+
+    // Add event listeners to step buttons
+    document.querySelectorAll('.step-button').forEach((button) => {
+        button.addEventListener('click', function () {
+            const stepNumber = parseInt(this.innerText);
+            handleStepButtonClick(stepNumber);
+        });
+    });
+</script>

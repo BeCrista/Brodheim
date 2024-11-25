@@ -1,0 +1,134 @@
+﻿@model Brodheim.Models.ViewModels.OportunidadesVM
+
+<!-- Add your custom CSS file -->
+<link rel="stylesheet" href="~/css/stylesOportunidades.css">
+
+<!-- Top Image Mask -->
+<div class="top-image-mask">
+    <img src="~/Images/brodheim_oportunidades_imageTop.png" alt="Top Image">
+    <div class="image-mask-overlay"></div>
+    <div class="image-mask-content">
+        <p>Como pertencer à</p>
+        <p>
+            <strong>Nossa Equipa</strong>
+        </p>
+    </div>
+</div>
+
+<!-- Filter Search Section -->
+<div class="container filter-search">
+    <div class="row">
+        <div class="col-md-3 col-sm-6">
+            <div class="input-group">
+                <span class="input-group-text">
+                    <!-- Icon for NomeTrabalho filter -->
+                    <i class="bi bi-search"></i>
+                </span>
+                <input type="text" class="form-control" placeholder="Pesquisar por NomeTrabalho">
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="input-group">
+                <span class="input-group-text">
+                    <!-- Icon for NomeEmpresa filter -->
+                    <i class="bi bi-building"></i>
+                </span>
+                <select class="form-select" aria-label="Dropdown for NomeEmpresa">
+                    <option selected>Todas as Empresas</option>
+                    <!-- Replace the 'foreach' loop with the names of the companies from the model -->
+                    @foreach (var empresa in Model.OportunidadesList.Select(o => o.NomeEmpresa).Distinct())
+                    {
+                        <option>@empresa</option>
+                    }
+                </select>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="input-group">
+                <span class="input-group-text">
+                    <!-- Icon for Localizacao filter -->
+                    <i class="bi bi-geo-alt"></i>
+                </span>
+                <input type="text" class="form-control" placeholder="Pesquisar por Localizacao">
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="input-group">
+                <span class="input-group-text">
+                    <!-- Icon for NomeFuncao filter -->
+                    <i class="bi bi-person"></i>
+                </span>
+                <input type="text" class="form-control" placeholder="Pesquisar por NomeFuncao">
+            </div>
+        </div>
+    </div>
+    <!-- Search Button -->
+    <div class="col-md-3 col-sm-6">
+        <button class="btn btn-primary" id="btnSearch">Search</button>
+    </div>
+</div>
+
+<!-- List of job opportunities -->
+<div class="job-list">
+    @foreach (var oportunidade in Model.OportunidadesList)
+    {
+        <div class="job-opportunity-item" data-job-id="@oportunidade.ID">
+            <!-- Display the job opportunity information here as clickable links -->
+            <a href="@Url.Action("JobDetails", "Home", new { id = oportunidade.ID })">
+                <h3>@oportunidade.NomeTrabalho</h3>
+            </a>
+            <p>@oportunidade.NomeEmpresa</p>
+            <p>@oportunidade.DateTrabalho</p>
+            <p>@oportunidade.Localizacao</p>
+            <p>@oportunidade.NomeFuncao</p>
+            <!-- Add more job details as needed -->
+        </div>
+    }
+</div>
+
+<!-- JavaScript Section -->
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Handle the click event of the search button
+            $("#btnSearch").click(function () {
+                // Get the filter criteria from the inputs and dropdowns
+                var nomeTrabalho = $("input[name='NomeTrabalho']").val();
+                var nomeEmpresa = $("select[name='NomeEmpresa']").val();
+                var localizacao = $("input[name='Localizacao']").val();
+                var nomeFuncao = $("input[name='NomeFuncao']").val();
+
+                // Perform the search by making an AJAX request to the server
+                $.ajax({
+                    url: "/Oportunidades/SearchOportunidades", // Replace with the actual URL of the search action method
+                    type: "GET",
+                    data: {
+                        nomeTrabalho: nomeTrabalho,
+                        nomeEmpresa: nomeEmpresa,
+                        localizacao: localizacao,
+                        nomeFuncao: nomeFuncao
+                    },
+                    success: function (data) {
+                        // Call the function to render the list of jobs on the page
+                        renderJobList(data);
+                    },
+                    error: function () {
+                        // Handle the error response if any
+                    }
+                });
+            });
+
+            // Function to render the list of jobs on the page
+            function renderJobList(jobs) {
+                var jobListHtml = '<ul class="list-group">';
+                $.each(jobs, function (index, job) {
+                    jobListHtml += '<li class="list-group-item">';
+                    jobListHtml += '<a href="Home/JobDetails/' + job.ID + '">' + job.NomeTrabalho + '</a>';
+                    jobListHtml += '</li>';
+                });
+                jobListHtml += '</ul>';
+                $(".job-list").html(jobListHtml);
+            }
+        });
+    </script>
+}

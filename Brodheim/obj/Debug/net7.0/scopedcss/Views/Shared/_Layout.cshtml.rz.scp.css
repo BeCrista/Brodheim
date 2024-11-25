@@ -1,0 +1,241 @@
+/* Please copy and replace the existing styles with the following styles */
+
+/* Header Styles */
+#topmenu_header[b-mqsl307onl] {
+    background-color: #303133;
+    height: 70px;
+}
+
+#TopMenu[b-mqsl307onl] {
+    margin-left: 50px;
+    list-style: none;
+    font-family: 'ralewayregular';
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+}
+
+ul[b-mqsl307onl] {
+    padding: 0px;
+}
+
+li[b-mqsl307onl] {
+    line-height: 70px;
+    height: 70px;
+    display: list-item;
+    text-align: match-parent;
+}
+
+#TopMenu .top_logo-left[b-mqsl307onl] {
+    align-self: flex-start;
+    margin-right: auto;
+}
+
+#TopMenu .search_wrapper[b-mqsl307onl] {
+    display: flex;
+    align-items: center;
+}
+
+.search_right_logo[b-mqsl307onl] {
+    text-align: right !important;
+}
+
+#TopMenu .search-field[b-mqsl307onl] {
+    border: 0;
+    padding: 5px;
+    background-color: transparent;
+    outline: none;
+    color: white;
+    margin-left: 10px;
+    line-height: 1;
+    opacity: .5;
+}
+
+.bi-search[b-mqsl307onl] {
+    background: 0 0;
+    border: none;
+    padding: 0;
+    margin: 0px;
+    vertical-align: central;
+    color: white;
+}
+
+.perfil_login[b-mqsl307onl] {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bi-person-circle[b-mqsl307onl] {
+    font-size: 40px;
+    color: aqua;
+}
+
+.navbar[b-mqsl307onl] {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+}
+
+.navbar-expand-md[b-mqsl307onl] {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+
+    .navbar-expand-md .navbar-collapse[b-mqsl307onl] {
+        display: -ms-flexbox !important;
+        display: flex !important;
+        flex-basis: auto;
+    }
+
+.navbar_menu .nav.navbar-nav[b-mqsl307onl] {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar_menu_content[b-mqsl307onl] {
+    flex-basis: 100%;
+    flex-grow: 1;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.justify-content-between[b-mqsl307onl] {
+    -ms-flex-pack: justify !important;
+    justify-content: space-between !important;
+}
+
+.navbar-nav[b-mqsl307onl] {
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav[b-mqsl307onl] {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav-item[b-mqsl307onl] {
+    position: relative;
+}
+
+    .nav-item[b-mqsl307onl]::after {
+        content: "";
+        display: block;
+        position: absolute;
+        bottom: -5px;
+        left: 0;
+        width: 100%;
+        height: 3px;
+        background-color: #DC143C;
+        opacity: 0;
+        transition: opacity 0.3s;
+    }
+
+    .nav-item:hover[b-mqsl307onl]::after {
+        opacity: 1;
+    }
+
+.nav-item[b-mqsl307onl] {
+    font-size: 18px;
+    transition: font-size 0.5s;
+}
+
+    .nav-item:hover[b-mqsl307onl] {
+        font-size: 22px;
+    }
+
+
+/* Footer Styles */
+.footer[b-mqsl307onl] {
+    padding: 4px;
+    background-color: #303133;
+    color: #fff;
+    font-family: 'ralewayregular', sans-serif;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.container-fluid[b-mqsl307onl] {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer-menu[b-mqsl307onl] {
+    padding: 0px;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.footer-item[b-mqsl307onl] {
+    margin: 0 20px;
+    position: relative;
+    flex: 1;
+    min-width: 200px;
+}
+
+    .footer-item a[b-mqsl307onl] {
+        color: #fff;
+        text-decoration: none;
+        transition: color 0.3s;
+        display: flex;
+    }
+
+        .footer-item a:hover[b-mqsl307onl] {
+            color: aquamarine;
+        }
+
+.sub-footer-menu[b-mqsl307onl] {
+    padding: 0;
+    list-style-type: none;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 15px;
+    text-transform: uppercase;
+    background-color: #303133;
+    display: inline-block;
+    position: static;
+    bottom: 100%;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.sub-footer-item[b-mqsl307onl] {
+    margin: 5px;
+}
+
+    .sub-footer-item a[b-mqsl307onl] {
+        color: #fff;
+        text-decoration: none;
+        transition: color 0.3s;
+    }
+
+        .sub-footer-item a:hover[b-mqsl307onl] {
+            color: #DC143C;
+        }
